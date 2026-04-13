@@ -8,6 +8,7 @@ Este repositório contém a análise da evolução da taxa de conclusão do ensi
 
 ## 📂 Estrutura do repositório
 
+```text
 .
 ├── db/
 │   ├── pnad_data_raw.rds
@@ -23,9 +24,8 @@ Este repositório contém a análise da evolução da taxa de conclusão do ensi
 │   └── (figuras geradas pela análise)
 │
 └── README.md
+```
 
-
----
 
 ---
 
