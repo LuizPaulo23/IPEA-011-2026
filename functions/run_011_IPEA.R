@@ -10,7 +10,7 @@ base::getwd()
 # Clonar o repositório e definir o bd como diretório \* 
 # git clone https://github.com/LuizPaulo23/IPEA-011-2026
 
-setwd("~/Github/IPEA_011/db")
+setwd("/home/luizpaulo/Github/IPEA_011/IPEA-011-2026/db")
 
 # Dependências \* ==============================================================
 
